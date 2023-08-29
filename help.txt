@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/74797691/nest-js-rabbitmq-not-sending-receiving-message
+https://stackoverflow.com/questions/70796428/how-to-use-rabbitmq-and-rest-api-in-nest-app?rq=3
+https://progressivecoder.com/how-to-create-a-nestjs-rabbitmq-microservice/
+https://stackoverflow.com/questions/53995130/nestjs-combine-http-with-rabbitmq-in-microservices?rq=3
+https://progressivecoder.com/how-to-create-a-nestjs-rabbitmq-microservice/
